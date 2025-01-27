@@ -29,9 +29,3 @@ O **Mensagens Codificadas** é uma aplicação simples e interativa desenvolvida
 - **JavaScript**: Lógica das funcionalidades (criptografar, descriptografar e copiar texto).
 
 ---
-
-## 🚀 Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Xiste/Criptografia.git
