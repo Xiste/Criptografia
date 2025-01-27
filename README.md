@@ -2,7 +2,7 @@
 
 ## 📜 Sobre o Projeto
 
-O **Mensagens Codificadas** é uma aplicação simples e interativa desenvolvida com HTML, CSS e JavaScript. Ele permite que você **criptografe** e **descriptografe** mensagens de texto de forma prática. O projeto é ideal para quem deseja experimentar a codificação de mensagens de forma divertida e educativa.
+O **Mensagens Codificadas** é uma aplicação simples e interativa desenvolvida com HTML, CSS e JavaScript. Ele permite que você **criptografe** e **descriptografe** mensagens de texto de forma prática.
 
 ---
 
